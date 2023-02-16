@@ -1,0 +1,5 @@
+.pet-list-container {
+  display: flex;
+  gap: 5rem;
+  margin-block-end: 5rem;
+}

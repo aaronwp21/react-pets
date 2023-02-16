@@ -1,0 +1,9 @@
+.pet-list {
+  list-style: none;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+.pet-list p:first-child {
+  margin-block-end: 2rem;
+}
